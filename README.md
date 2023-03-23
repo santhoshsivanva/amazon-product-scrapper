@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Run the script:
 
 ```bash
-python scraper.py
+python main.py
 ```
 
 # Enter the product URL when prompted.
